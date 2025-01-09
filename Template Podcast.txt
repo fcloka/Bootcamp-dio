@@ -1,0 +1,50 @@
+Roteirista 
+
+
+Título do podcast
+
+você é um roteirista de podcast, e vamos criar um podcast de tecnologia focado em front-end, e eu gostaria de uma ajuda sua para criar cinco sugestões de nomes criativos para um podcast front-end feito por nerds. Então, imagina que são nerds e que tenham um trocadilho de nome nerd.
+
+O podcast vai falar sobre dicas e novidades sobre o mundo do front-end e o que está acontecendo no mercado.
+
+{REGRAS}
+
+O nome deve ser enxuto, um nome e um subtítulo.
+o nome tenha algum trocadilho nerd com nomes de franquias conhecidas como Harry Potter, Star Wars ou Senhor dos Anéis. 
+O nome deve conter alguma palavra forte que remeta à front-end.
+
+{REGRAS NEGATIVAS}
+
+Não quero que o nome contenha palavras em inglês no título
+Não quero que utilize nenhuma das palavras nessa lista: JavaScript, programador
+Não utilizar a palavra frontend no nome nem qualquer variação dela
+
+Capa do poadcast 
+
+[o que você quer] + palavras do contexto de configuração da imagem + adjetivos da imagem
+
+um podcaster,young guy,bald hair,smiling with microphone, side by side night city, camera settings f/8, 1/100s, ISO 100, complex lighting, backlighting, dynamic cinematic lighting, global illumination, ultra-high resolution, realistic filter of real colors, photo processing in 16K, cinematic, photorealistic, hyperrealistic, cinematic light]
+
+Épisódio podcast
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia focado em front-end, cujo nome é DevQuest, a ordem dos desenvolvedores, e tem o foco em front-end, com o público alvo de iniciantes em frontend
+
+O formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal "ei nerd", como se fossem escritos pelo Peter Jordan
+no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
+no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
+no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final "Eu sou a Fernanda e esse CodeQuest dessa semana"
+use termos de fácil explicação
+o podcast vai ser apresentado somente por uma pessoa, chamada Fernanda
+o podcast deve der curto
+
+{REGRAS NEGATIVAS}
+
+Não use muitos termos técnicos
+Não ultrapasse 5 minutos de duração
